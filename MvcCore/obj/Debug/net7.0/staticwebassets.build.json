@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "O4lCc8GRH+1zHAsLQ5Q3kVE1k5k6hxtkRKpmOHNei4Q=",
+  "Source": "MvcCore",
+  "BasePath": "_content/MvcCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcCore\\wwwroot",
+      "Source": "MvcCore",
+      "ContentRoot": "F:\\.NET (7.0) Projects\\MvcCore\\MvcCore\\wwwroot\\",
+      "BasePath": "_content/MvcCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\.NET (7.0) Projects\\MvcCore\\MvcCore\\wwwroot\\favicon.ico",
+      "SourceId": "MvcCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\.NET (7.0) Projects\\MvcCore\\MvcCore\\wwwroot\\",
+      "BasePath": "_content/MvcCore",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
